@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, seja bem vindo, me chamo guilherme e esse é meu novo portifólio do Github;
 
 <div>
   <a href="https://github.com/G648">
