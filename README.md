@@ -1,4 +1,5 @@
-### Olá, seja bem vindo, me chamo guilherme e esse é meu novo portifólio do Github;
+### 🥳 Seja bem vindo ao meu portifólio 
+
 
 <div>
   <a href="https://github.com/G648">
