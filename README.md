@@ -2,8 +2,8 @@
 <div>
  Meu nome é Guilherme Cezar Amorim. Sou um profissional na área de T.I há 3 (três) anos. Possuo formação técnica em redes de computadores e atualmente cursando Analise e desenvolvimento de sistemas no SENAI de Informática, em São Caetano do Sul. 
   Gosto de ler e aproveitar meu tempo livre com meu sobrinho e familia. Gosto de desafios e aventuras. Sempre procuro evoluir para ser melhor do que fui antes. Também gosto de pedalar e andar de moto com os amigos.
-
 </div>
+
 
 <div>
   <a href="https://github.com/G648">
