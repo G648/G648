@@ -19,7 +19,7 @@
   <a href="https://github.com/G648">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=G648&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G648&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div align="center">
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Rafa-Csharp" height="40" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
