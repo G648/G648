@@ -30,6 +30,7 @@
   <img align="center" height="40" width="60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" height="40" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
 </div>
+ </div>
  
  <hr> 
  
