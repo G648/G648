@@ -50,7 +50,8 @@
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
  </a>
 </div>
-  ##
+ 
+ <hr>
  
  <div> 
   <a href="https://www.instagram.com/im_cez4r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
