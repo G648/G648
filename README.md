@@ -31,7 +31,8 @@
   <img align="center" height="40" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
 </div>
  
-  
+ <hr> 
+ 
   <div>
   <h2>📝 Certificações 📝</h2>
  <a href="https://www.credly.com/badges/e2225cc3-cf95-43c1-9993-203ba053052b/public_url">
