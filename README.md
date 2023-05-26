@@ -15,7 +15,7 @@
 </div>
 
 
-<div>
+<div align="center">
   <a href="https://github.com/G648">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=G648&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G648&layout=compact&langs_count=7&theme=dark"/>
@@ -33,7 +33,7 @@
  
  <hr> 
  
-  <div>
+  <div align="center">
   <h2>📝 Certificações 📝</h2>
  <a href="https://www.credly.com/badges/e2225cc3-cf95-43c1-9993-203ba053052b/public_url">
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png"/>
