@@ -1,19 +1,21 @@
 ### Seja bem vindo ao meu portifólio 
-<div>
- Meu nome é Guilherme Cezar Amorim. Sou um profissional na área de T.I há 3 (três) anos. Possuo formação técnica em redes de computadores e atualmente cursando Analise e desenvolvimento de sistemas no SENAI de Informática, em São Caetano do Sul. 
-  Gosto de ler e aproveitar meu tempo livre com meu sobrinho e familia. Gosto de desafios e aventuras. Sempre procuro evoluir para ser melhor do que fui antes. Também gosto de pedalar e andar de moto com os amigos.
- 
- <hr>
 
- - 🔭 Atualmente estou trabalhando no SENAI Automobilística (Ipiranga) no setor de tecnologia em nuvem, realizando e ministrando cursos preparatórios para exames de certificações 
- como AWS, Azure e Google Cloud
-- 🌱 Atualmente estou aprendendo Desenvolvimento de Sistemas pelo SENAI de Informática
-- 📫 Como entrar em contato comigo: (11) 9 8503-3670 - cezarguilherme03@gmail.com
- 
- <hr>
- 
-</div>
+```js
+import Desenvolvedor from "Guilherme Amorim";
 
+class SobreMim extends Desenvolvedor {
+  nome = "Guilherme Cezar de Amorim";
+  area = "Desenvolvedor FullStack";
+  trabalho = "Senai Ipiranga";
+  local = "Ipiranga - SP";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["DotNet Core (C#), JavaScript, TypeScript"];
+  bibliotecas = ["ReactJS"];
+  frameworks = ["React, Angular"];
+}
+```
 
 <div align="center">
   <a href="https://github.com/G648">
