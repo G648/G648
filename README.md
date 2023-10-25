@@ -17,6 +17,8 @@ class Skills extends Desenvolvedor {
 }
 ```
 
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 <div align="center">
   <a href="https://github.com/G648">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=G648&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
