@@ -70,9 +70,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/guilherme-cezar
  
   <div align="center">
   <h2>📝 Certificações 📝</h2>
- <a href="https://www.credly.com/badges/e2225cc3-cf95-43c1-9993-203ba053052b/public_url">
-  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png"/>
- </a>
  <a href="https://www.credly.com/badges/27bc7fde-79eb-4e5d-962a-11522bf20312/public_url">
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
  </a>
