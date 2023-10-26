@@ -70,14 +70,14 @@ class Skills extends Desenvolvedor {
 <table>
   <tr>
     <td>
-       <img align="left" src="https://github-readme-stats.vercel.app/api?username=G648&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
+       <img align="left" src="https://github-readme-stats.vercel.app/api?username=g648&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
       </td>
     <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G648&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g648&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
   </td>
     <td>
 <br/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=G648&theme=dark&hide_border=false" alt="Github stats" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=g648&theme=dark&hide_border=false" alt="Github stats" />
  </td>
   </tr>
 </table><br/>
