@@ -84,7 +84,8 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/guilherme-cezar
  </a>
 </div>
  
-
+<br/>
+<br/>
  
  <div align="center"> 
   <a align="center" href="https://www.instagram.com/im_cez4r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
