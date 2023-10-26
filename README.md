@@ -19,21 +19,20 @@ class Skills extends Desenvolvedor {
 }
 ```
 
-<div align="center">
-  <a href="https://github.com/G648">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=G648&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G648&layout=compact&langs_count=7&theme=dark"/>
-</div align="center">
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Csharp" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Rafa-Csharp" height="40" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-   <img align="center" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-    <img align="center" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" height="40" width="60" src="https://github.com/G648/G648/assets/54600850/a3e9e98f-53da-4eec-a5aa-de4d37ac488c" />
-
-
-</div>
- </div>
+<table>
+  <tr>
+    <td>
+       <img align="left" src="https://github-readme-stats.vercel.app/api?username=G648&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
+      </td>
+    <td>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g648&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
+  </td>
+    <td>
+<br/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=g648&theme=dark&hide_border=false" alt="Github stats" />
+ </td>
+  </tr>
+</table><br/>
  
  <hr> 
  
@@ -67,20 +66,7 @@ class Skills extends Desenvolvedor {
 </div>
 
 
-<table>
-  <tr>
-    <td>
-       <img align="left" src="https://github-readme-stats.vercel.app/api?username=G648&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
-      </td>
-    <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g648&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
-  </td>
-    <td>
-<br/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=g648&theme=dark&hide_border=false" alt="Github stats" />
- </td>
-  </tr>
-</table><br/>
+
 
 
 <div align=center>
