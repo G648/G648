@@ -66,7 +66,7 @@ Projetos em destaque: [App](https://nubank.com.br/)
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/guilherme-cezar-316a28197/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
  
- <hr> 
+
  
   <div align="center">
   <h2>📝 Certificações 📝</h2>
@@ -87,7 +87,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/guilherme-cezar
  </a>
 </div>
  
- <hr>
+
  
  <div> 
   <a href="https://www.instagram.com/im_cez4r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
