@@ -16,6 +16,7 @@ class Skills extends Desenvolvedor {
   linguagens = ["DotNet Core (C#), JavaScript, TypeScript"];
   bibliotecas = ["ReactJS"];
   frameworks = ["React, Angular"];
+  fraquezas = ["Lembrar de deslogar minhas contas de computadores públicos"];
 }
 ```
 
