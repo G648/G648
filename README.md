@@ -39,8 +39,7 @@ class Skills extends Desenvolvedor {
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="![image](https://github.com/G648/G648/assets/54600850/df40fbee-6a0b-4243-a2db-9f7e0c7391ea)
-"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/G648/G648/assets/54600850/df40fbee-6a0b-4243-a2db-9f7e0c7391ea"/>](https://www.spacex.com/)
 
 **Software Engineer** \
 [**SENAI - Conde José Vicente de Azevedo**](https://sp.senai.br/unidade/automobilistica/) • Full-time \
