@@ -1,4 +1,4 @@
-### Seja bem vindo ao meu portifólio 
+![image](https://github.com/G648/G648/assets/54600850/10defe3a-282f-4fe7-ae5c-357db390bbff)### Seja bem vindo ao meu portifólio 
 
 <img height="270px" align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -67,7 +67,11 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/guilherme-cezar
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
  </a>
  <a href="https://www.credly.com/badges/e2225cc3-cf95-43c1-9993-203ba053052b/public_url">
-  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
+  <img width="10%" height="10%"  src="https://images.credly.com/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png"/>
+ </a>
+ </a>
+ <a href="https://www.credly.com/badges/e2225cc3-cf95-43c1-9993-203ba053052b/public_url">
+  <img width="10%" height="10%"  src="https://images.credly.com/size/220x220/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"/>
  </a>
 </div>
  
