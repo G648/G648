@@ -1,4 +1,4 @@
-![image](https://github.com/G648/G648/assets/54600850/10defe3a-282f-4fe7-ae5c-357db390bbff)### Seja bem vindo ao meu portifólio 
+### Seja bem vindo ao meu portifólio 
 
 <img height="270px" align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
