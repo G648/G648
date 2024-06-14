@@ -66,6 +66,9 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/guilherme-cezar
  <a href="https://www.credly.com/badges/ffc8988f-3d25-44de-a383-98c97e1a5cfc/public_url">
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
  </a>
+ <a href="https://www.credly.com/badges/e2225cc3-cf95-43c1-9993-203ba053052b/public_url">
+  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
+ </a>
 </div>
  
 <br/>
