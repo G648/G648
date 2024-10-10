@@ -44,7 +44,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Instrutor de formação profissional 2** \
 [**SENAI - Conde José Vicente de Azevedo**](https://sp.senai.br/unidade/automobilistica/) • Full-time \
 Linguagens & Tecnologias: `JavaScript`, `C-sharp`, `Dotnet`\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/guilherme-cezar-316a28197/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
