@@ -42,7 +42,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="50px" width="100px" alt="Warpnet" src="https://github.com/G648/G648/assets/54600850/df40fbee-6a0b-4243-a2db-9f7e0c7391ea"/>](https://www.spacex.com/)
 
 **Instrutor de formação profissional 2** \
-[**SENAI - Conde José Vicente de Azevedo**](https://sp.senai.br/unidade/automobilistica/) • Full-time \
+[**SENAI - Paulo Antonio Skaf - Tecnologia**](https://sp.senai.br/unidade/informatica/) • Full-time \
 Linguagens & Tecnologias: `JavaScript`, `C-sharp`, `Dotnet`\
 <br/>
 
