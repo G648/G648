@@ -8,12 +8,12 @@ import Desenvolvedor from "Guilherme Amorim";
 class SobreMim extends Desenvolvedor {
   nome = "Guilherme Cezar de Amorim";
   area = "Desenvolvedor FullStack";
-  trabalho = "Senai Ipiranga";
-  local = "Ipiranga - SP";
+  trabalho = "Senai Informática";
+  local = "São Caetano do Sul - SP";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["DotNet Core (C#), JavaScript, TypeScript"];
+  linguagens = ["DotNet Core (C#), JavaScript, TypeScript, Java, SQL"];
   bibliotecas = ["ReactJS", "Tailwind", "Styled Components"];
   frameworks = ["React.js, Angular.js, Next.js"];
   fraquezas = ["Lembrar de deslogar minhas contas de computadores públicos"];
