@@ -13,9 +13,9 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["DotNet Core (C#), JavaScript, TypeScript, Java, SQL"];
+  linguagens = ["DotNet Core (C#)", "JavaScript", "TypeScript", "Java", "SQL"];
   bibliotecas = ["ReactJS", "Tailwind", "Styled Components"];
-  frameworks = ["React.js, Angular.js, Next.js"];
+  frameworks = ["React.js", "Angular.js", "Next.js", "SpringBoot"];
   fraquezas = ["Lembrar de deslogar minhas contas de computadores públicos"];
 }
 ```
